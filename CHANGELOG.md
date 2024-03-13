@@ -1,5 +1,11 @@
 # xeger
 
+## 0.0.4
+
+### Patch Changes
+
+- ea304a2: keywords
+
 ## 0.0.3
 
 ### Patch Changes
