@@ -13,7 +13,9 @@
     "release": "pnpm run build && changeset publish",
     "lint": "tsc"
   },
-  "keywords": [],
+  "keywords": [
+    "regex"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
