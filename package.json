@@ -14,7 +14,8 @@
     "lint": "tsc"
   },
   "keywords": [
-    "regex"
+    "regex",
+    "english"
   ],
   "author": "",
   "license": "MIT",
